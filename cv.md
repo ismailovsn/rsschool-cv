@@ -29,7 +29,7 @@ function pow(x, n) {
 }
 ```
 ### Work Experience
-I do not have any work experience connected to Front-End Development.
+[Markdown & Git CV](https://ismailovsn.github.io/rsschool-cv/cv)
 
 ### Education
 HTML, CSS and JS courses on [CodeBasics](https://ru.code-basics.com/)
