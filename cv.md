@@ -37,10 +37,10 @@ function pow(x, n) {
 [Markdown & Git CV](https://ismailovsn.github.io/rsschool-cv/cv)
 
 ### Education
-HTML, CSS and JS courses on [CodeBasics](https://ru.code-basics.com/)
-HTML course on [Hexlet](https://ru.hexlet.io/)
-RS School Front-End. [Stage #0](https://rs.school/js-stage0/)
-DongSeo University - Introduction to Computer Engineering
+- HTML, CSS and JS courses on [CodeBasics](https://ru.code-basics.com/)
+- HTML course on [Hexlet](https://ru.hexlet.io/)
+- RS School Front-End. [Stage #0](https://rs.school/js-stage0/)
+- DongSeo University - Introduction to Computer Engineering
 
 ### English Language
 My English level is B2. Moreover, I have 6.5 score on IELTS exam.
