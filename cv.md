@@ -2,10 +2,10 @@
 ##### Front-end Developer
 ### My contacts
 - E-mail: ismailovsn12@gmail.com
-- Telegram: abuhvlid
-- GitHub: ismailovsn
+- Telegram: [abuhvlid](https://t.me/abuhvlid)
+- GitHub: [ismailovsn](https://github.com/ismailovsn)
 ### About Me
-Hi! My name is Said-Nasir, but you can call me Nasir. I am 18 years old student studying Computer Engineering at Dongseo University based in Busan, South Korea. Simultaneously, I am learning Front-end Developing by myself with RS School
+Hi! My name is Said-Nasir, but you can call me Nasir. I am 18 years old student studying Computer Engineering at Dongseo University based in Busan, South Korea. Simultaneously, I am learning Front-end Developing by myself with [RS School](https://rs.school/).
 ### Skills
 - HTML
 - CSS
@@ -32,9 +32,9 @@ function pow(x, n) {
 I do not have any work experience connected to Front-End Development.
 
 ### Education
-HTML, CSS and JS courses on CodeBasics
-HTML course on Hexlet
-RS School Front-End. `Stage #0`
+HTML, CSS and JS courses on [CodeBasics](https://ru.code-basics.com/)
+HTML course on [Hexlet](https://ru.hexlet.io/)
+RS School Front-End. [Stage #0](https://rs.school/js-stage0/)
 DongSeo University - Introduction to Computer Engineering
 
 ### English Language
