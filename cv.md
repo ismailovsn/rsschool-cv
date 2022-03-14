@@ -4,6 +4,7 @@
 - E-mail: ismailovsn12@gmail.com
 - Telegram: [abuhvlid](https://t.me/abuhvlid)
 - GitHub: [ismailovsn](https://github.com/ismailovsn)
+- Discord: Nasir#3424 (RSS Server: Said-Nasir (ismailovsn))
 
 ### About Me
 Hi! My name is Said-Nasir, but you can call me Nasir. I am 18 years old student studying Computer Engineering at Dongseo University based in Busan, South Korea. Simultaneously, I am learning Front-end Developing by myself with [RS School](https://rs.school/).
