@@ -15,7 +15,7 @@ Hi! My name is Said-Nasir, but you can call me Nasir. I am 18 years old student 
 ```
 function pow(x, n) {
   if (n < 0) {
-    alert("Отрицательные значения 'n' не поддерживаются");
+    alert("Negative values 'n' are not supported");
     return;
   }
 
